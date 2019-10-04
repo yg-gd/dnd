@@ -82,6 +82,17 @@ dawrf innkeeper - Baldie
 * Shicar
 ** TODO Stag hunt in shicar holding
 glory, gold, and one request from duchess
+** TODO Before the hunt send an animal messanger to the stag
+- split up duties with team. I can focus on the Stag if they can keep other teams away
+- it would be interesting to pretend to be the stag. it's CR is probably too high for wild shape 
+but Enlarging a regular stag might help 
+** try to find wand or scroll of enlarge/reduce
+** The Great Stag
+   - still a beast, but has assended beyond
+   - Returns to this forest once a year to search or check on something
+   - Stands for the equality of nature 
+   - Some hunters have really only caught glimpses but that's mostly it
+     
 ** qualifers 
     gold, one magical items
 bring in mosters from far away
@@ -124,7 +135,9 @@ greater restoration will restore him
 ** outskirts 
    farms
 ** Capitol
-   center
+  - cental
+  - duchess is here
+  - Arena Fighting pit
 ** Nobles quarter
    west
 ** Eashia
