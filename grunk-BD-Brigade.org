@@ -1,6 +1,6 @@
 * Baronesse nache
 local adventurer’s lord
-
+township named nache?
 * Books
 Dragon crew of the Deepnine
 ** Andrar the magnificent
@@ -8,14 +8,16 @@ bedded many men killed a dragon
 good puzzle solver- 20 verses
 demon slayer
 	
-	
+
 * Letters
 ** Found in Amron
 carters employment
 3 letters discussing the orb. 
 koty pledging loyalty to stravos
 
-
+** Found in Shicar
+ Stating our entry into the arena signed by murne of the adventure's guild 
+ addmitance to the hunt
 * Magic Items
 ** Orb of demon summoning
 requires attunement
@@ -81,6 +83,38 @@ dawrf innkeeper - Baldie
 * Shicar
 ** TODO Stag hunt in shicar holding
 glory, gold, and one request from duchess
+** qualifers 
+    gold, one magical items
+bring in mosters from far away
+usually dumb
+*** the snarks
+     humans and half-elves
+   two close fighters
+   healer
+   archer 
+****   fought an umberhulk -big insect
+     one lost a leg
+     healer went in to heal mr leg
+     archer calls it off reall quick
+
+*** the olly brothers
+    gnomes
+    actually bothers + a sister
+    happy to be here
+    fighter
+    sorcerer
+**** fight
+     gigantic spiders
+     meteor attack
+     pretty capable
+     
+
+
+*** our fight
+    mock the berserker
+    black dragon wrmling
+    2 orcs
+
 ** road to Amron has a statute of Johann
 greater restoration will restore him      
 ** Duchess areatta shicar
@@ -88,10 +122,48 @@ greater restoration will restore him
 	Owns amron
 	lord of baroness nache 
 	seat in Shicar
+** outskirts 
+   farms
+** Capitol
+   center
+** Nobles quarter
+   west
+** Eashia
+   shops
+   taverns
+   smog cutter - inn
+*** shrunken head -inn
+    tons of hard drinkers in the middle of the day
+     burly dragonborn bartender markus
+     found Jimly here
+*** tipsy cow
+     slightly less roudy
+     8sp -adenvtures room /pers
+     2gp - noble room / pers
+     barkeep - bolin
+     paid up till day after hunt
+***  andventures guild
+    registered grumm
+ 
+*** Ofari
+   Bard - violin
+   not a fighter 
+*** Jimly 
+  13 year old human boy
+  has crush on sarah
+  wants us to buy him porn
+  brother bobby
+ 
+* Grumm Bull
+   goliath
+   7.5 ft tall
+   giant great ax
 
- Ragnok Stonehammer - Josh’s Character 
+
+* Ragnok Stonehammer - Josh’s Character 
 	in touch with thendar
-* guaneri - travellinglute seller
+** TODO does this save
+* guaneri - travelling lute seller
 	better than Johann
 	old elf
 	worship paverius, god of entertainment 
