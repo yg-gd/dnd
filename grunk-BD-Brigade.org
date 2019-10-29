@@ -7,7 +7,8 @@ township named nache?
  - bedded many men killed a dragon 
  - good puzzle solver- 20 verses 
  - demon slayer
-	
+ - found map to Andrars tower
+ 
 
 * Letters
 ** Found in Amron
@@ -18,6 +19,8 @@ township named nache?
 ** Found in Shicar
 - Stating our entry into the arena signed by murne of the adventurer's guild 
 - admitance to the hunt
+- proof that we won the hunt
+
 * Magic Items
 ** Orb of demon summoning
 - requires attunement
@@ -80,21 +83,41 @@ dawrf innkeeper - Baldie
 8sp per room
 *** bad inn -  rough johns
 * Shicar
-** TODO Stag hunt in shicar holding
-glory, gold, and one request from duchess
-** TODO Before the hunt send an animal messanger to the stag
-- split up duties with team. I can focus on the Stag if they can keep other teams away
-- it would be interesting to pretend to be the stag. it's CR is probably too high for wild shape 
-but Enlarging a regular stag might help 
-** try to find wand or scroll of enlarge/reduce
+** TODO Request from duchess Shicar 
+End the stag hunt
+show her koty's letter
+** TODO Map to Andrar's tower
+   investigate 
+   should be good on adventuring supplies
+   rope of climbing + graplling hook
 ** The Great Stag
    - still a beast, but has assended beyond
    - Returns to this forest once a year to search or check on something
    - Stands for the equality of nature 
    - Some hunters have really only caught glimpses but that's mostly it
-     
+    -tasked to protect the forest by some gods
+    
+** Great Hunt
+found boots +5 move speed, rod 5/5 charges of bless
+drawing of waterfall with a tower, circle with nice things
+- drawings of people worshiping 
+***  ooly brothers
+    ran into a tribe of 15 goblins. We saw the flames first and then flew over them
+*** order of the guards
+    tried to take us out
+    had a talisman used to track the great stag
+    we gave to talisman to the stag afterwards
+*** dwarves team
+   at least 2 dead
+   killed by duke tyrin's team
+*** duke tyrin's team
+  - attacking stag when we arrived
+  we knocked out the rogue, and almost the warlock
+ then they activate a device, saw a flash from their collars and they disappeared
+
+
 ** qualifers 
-    gold, one magical items
+    we won the marble elephant
 bring in mosters from far away
 usually dumb
 *** the snarks
@@ -132,7 +155,10 @@ greater restoration will restore him
 -	Owns amron
 -	lord of baroness nache 
 -	seat in Shicar
-** outskirts 
+** spawn fields 
+  where the hunt will began
+ 
+** outskirts
    farms
 ** Capitol
   - cental
@@ -141,9 +167,14 @@ greater restoration will restore him
 ** Nobles quarter
    west
 ** Eashia
-   shops
-   taverns
-   smog cutter - inn
+*** wizards
+    falneros, some enchantment magics
+large statue
+    graza - 10 gp speaking fee
+    dornen - half-orc
+    - fire spells
+***   shops
+***   smog cutter - inn
 *** shrunken head -inn
  -   tons of hard drinkers in the middle of the day
  -    burly dragonborn bartender markus
@@ -208,9 +239,11 @@ interested in magical items
 got a demonic book Crub wanted
 ** his adventurer group
 probably higher level
-- rouge half-size
-- wizard tiefling
-- others	
+- rouge halfling
+- warlock tiefling
+- aracrocka, ranger 
+- dragonborn, barbarian
+has a device to teleport away the barbarian held the trigger the first time
 * King Jerico the Jolly
 	peace for the last 5 years
 	kingdom of Rovan 
